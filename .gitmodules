@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DatastreamDSWS2R"]
+	path = DatastreamDSWS2R
+	url = https://github.com/cran/DatastreamDSWS2R
+	shallow = true
+	registered = true
